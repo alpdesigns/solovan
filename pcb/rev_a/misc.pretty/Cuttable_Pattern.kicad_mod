@@ -1,0 +1,12 @@
+(module Cuttable_Pattern (layer F.Cu) (tedit 5EE84325)
+  (fp_text reference REF** (at 0 1.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Cuttable_Pattern (at 0 -1.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_poly (pts (xy 0.2 0.1) (xy 0.1 0.2) (xy -0.2 -0.1) (xy -0.1 -0.2)) (layer F.Mask) (width 0.1))
+  (fp_poly (pts (xy 0.2 0.1) (xy 0.1 0.2) (xy -0.2 -0.1) (xy -0.1 -0.2)) (layer F.Cu) (width 0))
+  (pad 1 smd circle (at -0.25 -0.25) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd circle (at 0.25 0.25) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
+)
