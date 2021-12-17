@@ -5,17 +5,22 @@ Solovan is a 15x3 ortholinear mechanical keyboard.
 
 - [Rev.A](./buildguide/rev_a)
 
+## Firmware / ファームウェア
+
+This keyboard uses the QMK firmware.
+
+- https://github.com/alpdesigns/qmk_firmware
 ## PCB Data / 基板データ
 
-- [Rev.A](./pcb/rev_a)
-
-## Discord
-
-- https://discord.gg/nhzya4kw
+- [Rev.A](./pcb/rev_a) (MCU: ATMEGA32u4)
 
 ### PCB Data License
 - Licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0) otherwise noted. 
 - For footprints see https://github.com/kymok/kicad-libs.
+
+## Discord
+
+- https://discord.gg/nhzya4kw
 
 ## Acknowledgements / 謝辞
 
