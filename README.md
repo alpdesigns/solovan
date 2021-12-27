@@ -11,12 +11,23 @@ This keyboard uses the QMK firmware.
 
 - https://github.com/alpdesigns/qmk_firmware
 ## PCB Data / 基板データ
-
-- [Rev.A](./pcb/rev_a) (MCU: ATMEGA32u4)
-
 ### PCB Data License
 - Licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0) otherwise noted. 
 - For footprints see https://github.com/kymok/kicad-libs.
+
+### data
+
+- [Rev.A](./pcb/rev_a) (MCU: ATMEGA32u4)
+
+## Bottom Plate Data / 底面プレートデータ
+
+(C) ALP Designs 2021 All Rights Reserved.
+- The drawing is provided for convenience of making accessories such as jigs or fixtures.
+- 治具や固定金物などのアクセサリ制作に便利なよう，穴位置の図面を公開しています．
+
+### data
+
+- [Rev.A](./drawings/bottom_plate_rev_a.pdf)
 
 ## Discord
 
