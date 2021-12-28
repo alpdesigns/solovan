@@ -29,7 +29,7 @@ This keyboard uses the QMK firmware.
 
 ### data
 
-- [Rev.A](./drawings/bottom_plate_rev_a.pdf)
+- [Rev.A](./drawings/)
 
 ## Discord
 
