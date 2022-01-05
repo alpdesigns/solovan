@@ -1,5 +1,7 @@
 # Solovan Build Guide (Rev.A)
 
+- `2022-01-05` Added instruction for back plate orientation
+
 This build guide is translated from Japanese version. If there is any conflict, Japanese version should prevail.
 
 ![Solovan](./img/solovan.jpeg)
