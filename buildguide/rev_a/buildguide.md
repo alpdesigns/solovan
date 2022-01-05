@@ -128,6 +128,7 @@ Rotary encoder functionality can be assigned using Remap.
     - ![image](./img/step2_pcb.jpg)
 5. Attach the bottom plate.
     - use screw `F`.
+    - `*1` Attach the plate so that the USB terminal and extra screw holes come to the same side. If the plate is attached in opposite direction, too long extra screws might damage the PCB.
     - ![image](./img/step3_backplate.jpg)
 6. Attach rubber feets if needed.
 
