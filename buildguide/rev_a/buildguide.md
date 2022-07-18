@@ -22,6 +22,12 @@ Products are carefully checked before shipment but please double-check for initi
 1. Check all parts are included in the box.
 2. Check with [Remap](https://remap-keys.app) that all keys are working.
 
+### About LEDs
+
+Solovan has three LEDs which illuminates white when layer 1, 2 and 3 is active respectively. Modification to the firmware is required to change this behaviour. See [README](../../README.md) for the link to the firmware source code.
+
+(LED flashes red when connected to USB.)
+
 ## Required Parts Not Included in the Kit
 
 ### Parts
